@@ -48,7 +48,7 @@ function App() {
 									</a>
 									{" "}
 									{" "}
-									<b>once</b> to get <b>unlimited</b> dev-servers <i>on-demand</i>!
+									<b>once</b> to get <b>unlimited</b> dev-servers <i>on demand</i>!
 								</p> <p>
 									<LoginButton/>{JSON.stringify(user?.name)}</p>
 							</header>
