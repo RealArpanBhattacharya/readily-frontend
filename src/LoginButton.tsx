@@ -15,6 +15,8 @@ function LoginButton() {
 		<Fab onClick = {loginWithRedirect} color = "secondary" variant="extended"  aria-label="add">
 			<b> {"Join The Waitlist"} </b>
 		</Fab>:<> </>;
+
+
 }
 
 export default LoginButton;
